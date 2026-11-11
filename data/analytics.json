@@ -1,0 +1,17 @@
+{
+  "totalPageviews": 1,
+  "todayPageviews": 1,
+  "todayDate": "2026-11-11",
+  "dailyHistory": {
+    "2026-11-11": {
+      "date": "2026-11-11",
+      "count": 1,
+      "referrers": {},
+      "postViews": {},
+      "likes": {}
+    }
+  },
+  "likes": {},
+  "totalLikes": 0,
+  "recentLikes": []
+}
