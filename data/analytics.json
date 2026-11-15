@@ -1,6 +1,6 @@
 {
-  "totalPageviews": 9111,
-  "todayPageviews": 11,
+  "totalPageviews": 9112,
+  "todayPageviews": 12,
   "dailyHistory": {
     "2026-10-30": {
       "date": "2026-10-30",
@@ -5570,9 +5570,9 @@
     },
     "2026-11-15": {
       "date": "2026-11-15",
-      "count": 11,
+      "count": 12,
       "referrers": {
-        "직접 접속 / 카카오톡 링크": 4,
+        "직접 접속 / 카카오톡 링크": 5,
         "네이버 (Naver)": 4,
         "wwv.soonwidot.co.kr": 1
       },
