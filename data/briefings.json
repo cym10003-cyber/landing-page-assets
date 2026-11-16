@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794794651014,
+  "updatedAt": 1794795044937,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794794653798,
+      "updatedAt": 1794795048285,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -443,6 +443,49 @@
           "coordinates": [
             35.860630813847486,
             128.59488755464554
+          ]
+        },
+        {
+          "itemId": "item_1794795048257_zlbp",
+          "postId": "1794795000532",
+          "propNo": "1802",
+          "tradeType": "rent",
+          "title": "무권리 달서구 두류동 감삼역초역세권 인테리어완비 두류센트레빌더시티 2층 상가임대",
+          "address": "대구광역시 달서구 두류동",
+          "currentFloor": "지상 2층",
+          "totalFloor": "지상 1층~지상 2층",
+          "floor": "지상 2층 / 총 지상 1층~지상 2층",
+          "area": "전용 약 37.51평",
+          "deposit": 3000,
+          "rent": 150,
+          "managementFee": 14,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "즉시입주 가능",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 두류동 감삼역 초역세권, 두류센트레빌더시티 상가\n• 코너쪽의 호실이라 가시성이 좋음\n• 기본 인테리어 완비",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794883893_lblj_KakaoTalk_20261116_105205501.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794885520_6a0m_KakaoTalk_20261116_105205501_01.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794886834_tvsb_KakaoTalk_20261116_105205501_02.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794888126_oo7i_KakaoTalk_20261116_105205501_03.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794889829_hqc3_KakaoTalk_20261116_105205501_04.png"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.85251784740962,
+            128.54943215847018
           ]
         }
       ]
