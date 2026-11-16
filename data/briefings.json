@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794792859826,
+  "updatedAt": 1794792884175,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794792863402,
+      "updatedAt": 1794792887570,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -197,6 +197,52 @@
           "coordinates": [
             35.905128657799494,
             128.61197054386142
+          ]
+        },
+        {
+          "itemId": "item_1794792887554_3ihm",
+          "postId": "1784010224523",
+          "propNo": "1334",
+          "tradeType": "rent",
+          "title": "대구 수성구 수성동1가 무권리 신천동로 사무실 임대 상가",
+          "address": "대구광역시 수성구 수성동1가",
+          "currentFloor": "지상 2층",
+          "totalFloor": "지하 1층~지상 4층",
+          "floor": "지상 2층 / 총 지하 1층~지상 4층",
+          "area": "약 63평",
+          "deposit": 3000,
+          "rent": 250,
+          "managementFee": 10,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 수성동 대구 전지역 이동이 편리한 무권리 사무실\n• 주차완비, 고정주차 3대, 엘베, 화장실 2개\n• 무권리 매물로 천장형냉난방기를 포함한 모든 집기들은 제외됩니다.",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010197912_fl43_01035484000KakaoTalk_20251001_151849663_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010200402_0w7o_01035484000KakaoTalk_20251001_151849663_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010202311_gvs3_01035484000KakaoTalk_20251001_151849663_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010204408_3tq5_01035484000KakaoTalk_20251001_151849663_28.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010206319_4qby_01035484000KakaoTalk_20251001_151909413.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010208376_g1fq_01035484000KakaoTalk_20251001_151909413_04.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010210306_70w9_01035484000KakaoTalk_20251001_151909413_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010212328_r2hh_01035484000KakaoTalk_20251001_151909413_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010214316_96yn_01035484000KakaoTalk_20251001_151909413_17.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010216244_2el3_01035484000KakaoTalk_20251001_151909413_22.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.848952401292024,
+            128.60832542181015
           ]
         }
       ]
