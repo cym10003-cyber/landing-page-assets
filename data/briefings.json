@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794802593441,
+  "updatedAt": 1794803290193,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794802592224,
+      "updatedAt": 1794803289073,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -102,16 +102,16 @@
           "postId": "1783903230894",
           "propNo": "1575",
           "tradeType": "rent",
-          "title": "대구 수성구 범어동 달구벌대로 인테리어완비 무권리 사무실 상가임대",
-          "address": "대구광역시 수성구 범어동",
+          "title": "대구 수성구 범어동 달구벌대로 인테리어완비 무권리 사무실",
+          "address": "대구광역시 수성구 범어동 42-8 요아킴빌딩",
           "currentFloor": "지상 4층",
           "totalFloor": "지하 1층~지상 6층",
           "floor": "지상 4층 / 총 지하 1층~지상 6층",
           "area": "약 138평",
           "deposit": 20000,
           "rent": 450,
-          "managementFee": 3.5,
-          "maintVat": false,
+          "managementFee": 480,
+          "maintVat": true,
           "premium": 0,
           "premiumText": "무권리",
           "salePrice": 0,
@@ -122,9 +122,11 @@
             "무권리",
             "인테리어 완비",
             "즉시입주 가능",
-            "대로변/코너"
+            "대로변/코너",
+            "렌트프리 협의",
+            "역세권"
           ],
-          "agentComment": "• 범어동 최고위치의 달구벌대로 무권리 대형 사무실\n• 고정주차 1대, 기본 인테리어완비\n• 관리비는 평당 3-3.5만원 정도 (개별전기요금을 포함한 금액입니다)",
+          "agentComment": "• 범어동 최고위치의 달구벌대로 무권리 대형 사무실\n• 고정주차 1대, 기본 인테리어완비\n• 관리비는 평당 3-3.5만원 정도 (개별전기요금을 포함한 금액입니다)\n• 용도변경이 필요합니다.\n• 본 건물에 입점된 정형외과는 인근 유료주차장과 계약하여 고객주차를 유도하고 있습니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783903191226_iodm_______________01035484000_KakaoTalk_20260331_142821660_04.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783903193075_59nr_______________01035484000_KakaoTalk_20260331_142821660_08.jpg",
@@ -138,6 +140,94 @@
           "coordinates": [
             35.859478701457626,
             128.6242309212685
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "stealth_1794802709241",
+          "postId": "",
+          "propNo": "",
+          "tradeType": "rent",
+          "title": "범어네거리 무권리 사무실",
+          "address": "대구광역시 수성구 범어동 43-8 메타타워V",
+          "currentFloor": "지상 2층",
+          "totalFloor": "지하 3층~지상 10층",
+          "floor": "지상 2층 / 총 지하 3층~지상 10층",
+          "area": "전용 약 130.8평",
+          "deposit": 15000,
+          "rent": 675,
+          "managementFee": 484.5,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "무권리",
+            "즉시입주 가능",
+            "외부화장실",
+            "대로변/코너",
+            "역세권",
+            "높은 층고/노출천장",
+            "렌트프리 협의"
+          ],
+          "agentComment": "• 주차 73대, 고정주차 2대\n• 2년 계약시에 렌트프리 총 6개월 제공함\n• 성형외과, 모발이식, 한의원 입점되어 있음\n•  제1종근린생활시설(의원)",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803195243_3db8_50ffbd884f42868e093aaf822133824b_Photoroom.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803197771_osca_0829ed949f61ea1de7c1769d0b2d465f_Photoroom.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803200817_i6fh_864a213c065b11026c34ff5f55a41159_Photoroom.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803203642_caqb_b0f9e6ed9518e55adcb52c1a8f06709a_Photoroom.png",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803205820_bqnb_e9c72c13787975b7f2ea361747f99972_Photoroom.png"
+          ],
+          "coordinates": [
+            35.8581,
+            128.6205
+          ],
+          "maintVat": false,
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1794803289058_is20",
+          "postId": "1783901695498",
+          "propNo": "987",
+          "tradeType": "rent",
+          "title": "대구 수성구 범어동 무권리 달구벌대로 상가 사무실 임대",
+          "address": "대구광역시 수성구 범어동",
+          "currentFloor": "지상 10층",
+          "totalFloor": "지하 3층 ~ 지상 11층",
+          "floor": "지상 10층 / 총 지하 3층 ~ 지상 11층",
+          "area": "전용 약 173평",
+          "deposit": 20000,
+          "rent": 1400,
+          "managementFee": 311.6,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너",
+            "테라스/베란다"
+          ],
+          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 추천업종 : 병의원, 사무실, 학원 등",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901662381_95u7_KakaoTalk_20251223_111232737_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901664301_139w_KakaoTalk_20251223_111232737_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901666377_sovo_KakaoTalk_20251223_111232737_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901668345_ima9_KakaoTalk_20251223_111232737_18.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901670359_01se_KakaoTalk_20251223_111232737_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901672295_j9pn_KakaoTalk_20251223_111232737_25.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901674106_8yd1_KakaoTalk_20251223_111243662.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901675511_2p3e_KakaoTalk_20251223_111243662_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901678292_n76h_KakaoTalk_20251223_111243662_09.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.858413526048956,
+            128.62960070371628
           ],
           "autoSyncPost": false
         }
