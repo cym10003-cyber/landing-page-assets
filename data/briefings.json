@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794466799672,
+  "updatedAt": 1794792838589,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -75,6 +75,79 @@
     }
   ],
   "briefings": [
+    {
+      "id": "br_mwil8hy9",
+      "customerName": "010-9273-8477",
+      "customerPhone": "",
+      "title": "사무실 매물 리스트",
+      "createdAt": "2026. 11. 16",
+      "updatedAt": 1794792841954,
+      "expiresAt": "",
+      "blindAddress": false,
+      "showComparisonTable": true,
+      "showMonthlyCost": false,
+      "includeVat": true,
+      "includeMaintVat": false,
+      "showYield": false,
+      "showMap": true,
+      "generalNote": "어제 보신 매물과 추가로 매물을 더 보내드립니다^^",
+      "attachedMemoIds": [
+        "memo_doc_rent",
+        "memo_special_terms_rent"
+      ],
+      "customerPicks": [],
+      "items": [
+        {
+          "itemId": "item_1794792841943_lfmy",
+          "postId": "1784012786859",
+          "propNo": "1050",
+          "tradeType": "rent",
+          "title": "대구 수성구 지산동 무권리 대형 사무실 인테리어 완비 상가임대",
+          "address": "대구광역시 수성구 지산동",
+          "currentFloor": "지상 6층",
+          "totalFloor": "지하 1층~지상 8층",
+          "floor": "지상 6층 / 총 지하 1층~지상 8층",
+          "area": "약 83평",
+          "deposit": 3000,
+          "rent": 170,
+          "managementFee": 20,
+          "maintVat": true,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "엘리베이터 유",
+            "외부화장실",
+            "무권리",
+            "인테리어 완비",
+            "룸/칸막이 완비",
+            "탕비실/싱크대",
+            "즉시입주 가능",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 지산동 범물역 초역세권 도보 3분, 대로변위치\n• 인테리어 완비, 칸막이4개, 중앙홀, 탕비실, 외부화장실2개, 엘베\n• 추천업종 : 사무실 등",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012744559_yeyd_kkKakaoTalk_20250121_085100518_23.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012746473_3bv2_kkKakaoTalk_20250121_085100518_27.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012750450_dr8q_kkKakaoTalk_20250121_085127783.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012752183_sm5y_kkKakaoTalk_20250121_085127783_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012753917_ud4s_kkKakaoTalk_20250121_085127783_08.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012755808_53ly_kkKakaoTalk_20250121_085127783_17.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012757533_cir8_kkKakaoTalk_20250121_085127783_23.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012759360_0pwi_kkKakaoTalk_20250121_085127783_29.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012761349_l9au_kkKakaoTalk_20250121_085200218_02.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012763102_rw6u_kkKakaoTalk_20250121_085200218_04.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784012764849_p41t_kkKakaoTalk_20250121_085200218_09.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.82250222273537,
+            128.6379557847977
+          ]
+        }
+      ]
+    },
     {
       "id": "sample_vip_01",
       "customerName": "김OO 대표님",
