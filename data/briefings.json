@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794806938302,
+  "updatedAt": 1794807107085,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794806937419,
+      "updatedAt": 1794807106093,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -384,7 +384,17 @@
             "역세권"
           ],
           "agentComment": "• 주차 61대, 고정주차는 유료8만원으로 1대가능, 고객주차 30분에 1000원\n• 협력 주차장: 만촌동 1036-26번지 월주차 13만원 부가세포함, 추가 제한없음, 1시간 3000원\n• 공용관리비 공급평당 6500원\n• 교육연구시설(학원), 24년 7월 준공이라 용도변경에 무리 없습니다.\n• 테슬라매장이 입점되어 있습니다. \n• 본 건물 9층에 온빛수학학원을 입점시켜서 임대인과 소통이 잘됩니다. 조건협의 최대로 유리하게 해드릴수 있습니다.",
-          "photos": [],
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807056463_mwjl_KakaoTalk_20250929_085742641_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807059733_vg9v_KakaoTalk_20250929_085742641_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807061674_68o0_KakaoTalk_20250929_085742641_08.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807063883_i8sp_KakaoTalk_20250929_085742641_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807066325_yr4k_KakaoTalk_20250929_085742641_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807069425_gtyd_KakaoTalk_20250929_085742641_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807072489_nweq_KakaoTalk_20250929_085742641_14.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807075276_qqw4_KakaoTalk_20250929_100119145_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807077422_tf89_KakaoTalk_20260728_122239410_01.jpg"
+          ],
           "coordinates": [
             35.8581,
             128.6205
