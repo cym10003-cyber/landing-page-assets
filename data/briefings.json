@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794795111067,
+  "updatedAt": 1794795141308,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794795114600,
+      "updatedAt": 1794795144478,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -451,7 +451,7 @@
           "propNo": "1802",
           "tradeType": "rent",
           "title": "무권리 달서구 두류동 감삼역초역세권 인테리어완비 두류센트레빌더시티 2층 상가임대",
-          "address": "대구광역시 달서구 두류동 2346 두류센트레빌더시티 401동 201호",
+          "address": "대구광역시 달서구 두류동 2346 401동 201호",
           "currentFloor": "지상 2층",
           "totalFloor": "지상 1층~지상 2층",
           "floor": "지상 2층 / 총 지상 1층~지상 2층",
