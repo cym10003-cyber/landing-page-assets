@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794795178209,
+  "updatedAt": 1794795182442,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794795181686,
+      "updatedAt": 1794795185784,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
