@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794792884175,
+  "updatedAt": 1794793275317,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794792887570,
+      "updatedAt": 1794793278215,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -103,7 +103,7 @@
           "propNo": "1050",
           "tradeType": "rent",
           "title": "대구 수성구 지산동 무권리 대형 사무실 인테리어 완비 상가임대",
-          "address": "대구광역시 수성구 지산동",
+          "address": "대구광역시 수성구 지산동 1276-6",
           "currentFloor": "지상 6층",
           "totalFloor": "지하 1층~지상 8층",
           "floor": "지상 6층 / 총 지하 1층~지상 8층",
@@ -152,7 +152,7 @@
           "propNo": "1442",
           "tradeType": "rent",
           "title": "무권리 북구 산격동 최신인테리어 완비 주차편리",
-          "address": "대구광역시 북구 산격동",
+          "address": "대구광역시 북구 산격동 179-4",
           "currentFloor": "지상 2층",
           "totalFloor": "지하 1층~지상 5층",
           "floor": "지상 2층 / 총 지하 1층~지상 5층",
@@ -175,7 +175,7 @@
             "즉시입주 가능",
             "대로변/코너"
           ],
-          "agentComment": "• 산격동 무권리 새 인테리어 후 첫 입주\n• 천장형냉난방기 3대 기본옵션, 탕비실, 엘베, 외부화장실 2개\n• 건물 내 주차 21대, 고정주차없이 선착순으로 편하게 이용",
+          "agentComment": "• 산격동 무권리 새 인테리어 후 첫 입주\n• 천장형냉난방기 3대 기본옵션, 탕비실, 엘베, 외부화장실 2개\n• 건물 내 주차 21대, 고정주차없이 선착순으로 편하게 이용\n• 길건너 한국패션센터 공영주차장 10분 175원, 1일4000원",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513039296_mqtr_KakaoTalk_20260202_080405358_05.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513041064_m7xn_KakaoTalk_20260202_080405358_07.jpg",
@@ -205,7 +205,7 @@
           "propNo": "1334",
           "tradeType": "rent",
           "title": "대구 수성구 수성동1가 무권리 신천동로 사무실 임대 상가",
-          "address": "대구광역시 수성구 수성동1가",
+          "address": "대구광역시 수성구 수성동1가 649-43",
           "currentFloor": "지상 2층",
           "totalFloor": "지하 1층~지상 4층",
           "floor": "지상 2층 / 총 지하 1층~지상 4층",
@@ -221,12 +221,12 @@
             "주차 편함",
             "엘리베이터 유",
             "외부화장실",
-            "냉난방기 있음",
             "무권리",
             "즉시입주 가능",
-            "대로변/코너"
+            "대로변/코너",
+            "고정주차 3대"
           ],
-          "agentComment": "• 수성동 대구 전지역 이동이 편리한 무권리 사무실\n• 주차완비, 고정주차 3대, 엘베, 화장실 2개\n• 무권리 매물로 천장형냉난방기를 포함한 모든 집기들은 제외됩니다.",
+          "agentComment": "• 수성동 대구 전지역 이동이 편리한 무권리 사무실\n• 주차완비, 고정주차 3대, 엘베, 화장실 2개\n• 26.11.16 현재 기본인테리어 완비된 깔끔한 공실입니다",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010197912_fl43_01035484000KakaoTalk_20251001_151849663_12.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010200402_0w7o_01035484000KakaoTalk_20251001_151849663_15.jpg",
@@ -243,6 +243,53 @@
           "coordinates": [
             35.848952401292024,
             128.60832542181015
+          ]
+        },
+        {
+          "itemId": "item_1794793278197_6f5b",
+          "postId": "1783985170239",
+          "propNo": "1511",
+          "tradeType": "rent",
+          "title": "대구 수성구 만촌동 시설완비 무권리 사무실 임대",
+          "address": "대구광역시 수성구 만촌동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지하 1층~지상4층",
+          "floor": "지상 3층 / 총 지하 1층~지상4층",
+          "area": "약 45평",
+          "deposit": 3000,
+          "rent": 120,
+          "managementFee": 0,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 만촌동 인테리어 및 시설완비된 무권리 사무실\n• 무권리 매물로 내부 집기 및 냉난방기는 제외됩니다\n• 건물내 주차 5대 및 선착순 주차, 주변에 주차할 곳 많습니다",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985130056_dvxx_______________01035484000_KakaoTalk_20260213_104837412_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985131963_mzax_______________01035484000_KakaoTalk_20260213_104837412_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985133634_mgct_______________01035484000_KakaoTalk_20260213_104837412_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985135498_67v7_______________01035484000_KakaoTalk_20260213_104837412_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985137419_hhet_______________01035484000_KakaoTalk_20260213_104837412_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985138927_g7nf_______________01035484000_KakaoTalk_20260213_104837412_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985140672_3gca_______________01035484000_KakaoTalk_20260213_104837412_24.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985142503_oflk_______________01035484000_KakaoTalk_20260213_104837412_25.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985143934_6eru_______________01035484000_KakaoTalk_20260213_104837412_28.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985145571_2b64_______________01035484000_KakaoTalk_20260213_104840050.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985147371_xgme_______________01035484000_KakaoTalk_20260213_104840050_02.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.86353927968325,
+            128.64160627126697
           ]
         }
       ]
