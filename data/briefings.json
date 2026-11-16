@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794805106532,
+  "updatedAt": 1794805418624,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794805105964,
+      "updatedAt": 1794805417802,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -440,8 +440,8 @@
           "postId": "1787196681815",
           "propNo": "1675",
           "tradeType": "rent",
-          "title": "무권리 만촌역 초역세권 시설완비 상가임대",
-          "address": "대구광역시 수성구 만촌동",
+          "title": "태왕디아너스 무권리 만촌역 초역세권 시설완비 상가임대",
+          "address": "대구광역시 수성구 만촌동 1041-1",
           "currentFloor": "지상 12층",
           "totalFloor": "지하 1층~지상 23층",
           "floor": "지상 12층 / 총 지하 1층~지상 23층",
@@ -464,7 +464,7 @@
             "대로변/코너",
             "역세권"
           ],
-          "agentComment": "• 만촌역 태왕디아너스 메디컬 타워, 전망 좋은 무권리 매물\n• 임대 조건 최대 협의해드리겠습니다.\n• 기본인테리어 완비, 천장형냉난방기 5대",
+          "agentComment": "• 만촌역 태왕디아너스 메디컬 타워, 전망 좋은 무권리 매물\n• 기본인테리어 완비, 천장형냉난방기 5대\n• 주차 편리",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787196650676_8f3q_KakaoTalk_20260820_092300257_13.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787196652151_au5j_KakaoTalk_20260820_092300257_18.jpg",
@@ -482,6 +482,41 @@
             35.85896133233249,
             128.64691436290744
           ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "stealth_1794805221044",
+          "postId": "",
+          "propNo": "",
+          "tradeType": "rent",
+          "title": "범어역 범어353타워 무권리 사무실",
+          "address": "대구광역시 수성구 범어동 33-16",
+          "currentFloor": "지상 12층",
+          "totalFloor": "지하 1층~지상 15층",
+          "floor": "지상 12층 / 총 지하 1층~지상 15층",
+          "area": "전용 약 128.18평",
+          "deposit": 20000,
+          "rent": 1400,
+          "managementFee": 225,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "무권리",
+            "즉시입주 가능",
+            "외부화장실",
+            "렌트프리 협의",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 주차 94대, 무료주차2대, 손님1시간반 무료주차\n• 건축물용도: 의료시설(병원)",
+          "photos": [],
+          "coordinates": [
+            35.8581,
+            128.6205
+          ],
+          "maintVat": false,
           "autoSyncPost": false
         }
       ]
