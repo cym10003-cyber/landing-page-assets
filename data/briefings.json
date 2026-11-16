@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794803476022,
+  "updatedAt": 1794804277583,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794803475319,
+      "updatedAt": 1794804276025,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -210,9 +210,11 @@
             "무권리",
             "즉시입주 가능",
             "대로변/코너",
-            "테라스/베란다"
+            "테라스/베란다",
+            "렌트프리 협의",
+            "역세권"
           ],
-          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 제1종근린생활시설(의원)\n• 피부과(에디트의원)가 입점되어 있으나 위치 등이 마음에 드셔서 의사가 있을시 임대인에게 물어보겠습니다",
+          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 제1종근린생활시설(의원)\n• 피부과(에디트의원)가 입점되어 있으나 위치 등이 마음에 드셔서 의사가 있을시 임대인에게 물어보겠습니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901662381_95u7_KakaoTalk_20251223_111232737_09.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901664301_139w_KakaoTalk_20251223_111232737_13.jpg",
@@ -255,9 +257,11 @@
             "외부화장실",
             "무권리",
             "즉시입주 가능",
-            "대로변/코너"
+            "대로변/코너",
+            "역세권",
+            "렌트프리 협의"
           ],
-          "agentComment": "• 범어동 수성구청역 위치 최상, 병의원 우대, 분할가능\n• 고정주차 1대 제공, 고객주차 1시간 무료\n• 실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어 있습니다.",
+          "agentComment": "• 범어동 수성구청역 위치 최상, 병의원 우대, 분할가능\n• 고정주차 1대 제공, 고객주차 1시간 무료\n• 실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어 있습니다.\n• 3층, 4층은 보1억/850만이며, 두개층 임대 가능하고 조건협의 됩니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900029560_6d2a_KakaoTalk_20260408_174110215_17.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900031437_fn5k_KakaoTalk_20260408_174110215_19.jpg",
@@ -270,6 +274,85 @@
           "coordinates": [
             35.8590526330117,
             128.6331841349602
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "stealth_1794803654969",
+          "postId": "",
+          "propNo": "",
+          "tradeType": "rent",
+          "title": "11월말 준공예정 신축건물",
+          "address": "대구광역시 수성구 206-3",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지상 13층",
+          "floor": "지상 3층 / 총 지상 13층",
+          "area": "전용 약 86평",
+          "deposit": 10000,
+          "rent": 900,
+          "managementFee": 132,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "냉난방기 있음",
+            "무권리",
+            "즉시입주 가능",
+            "렌트프리 협의",
+            "외부화장실",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "11월말 준공예정으로 4층 전용 약 89평 보1억/월900만으로 2개층 사용 가능합니다.",
+          "photos": [],
+          "coordinates": [
+            35.8581,
+            128.6205
+          ],
+          "maintVat": false,
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1794804276000_eb3c",
+          "postId": "1783899118288",
+          "propNo": "1611",
+          "tradeType": "rent",
+          "title": "대구 수성구 범어동 비엘e타워 무권리 상가 사무실",
+          "address": "대구광역시 수성구 범어동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지하 1층~지상 11층",
+          "floor": "지상 3층 / 총 지하 1층~지상 11층",
+          "area": "전용 약 129평",
+          "deposit": 20000,
+          "rent": 1400,
+          "managementFee": 240.5,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 달구벌대로 범어동 학원가 9월 준공예정인 신축건물\n• 분할 가능합니다.\n• 결정만 해주신다면 조건 최대 협의해드리겠습니다.",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899080454_sbhe_KakaoTalk_20260508_150345199_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899082201_ljnd_KakaoTalk_20260508_150345199_04.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899084112_upb9_KakaoTalk_20260508_150345199_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899085676_o979______2026_05_13_093801.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899087116_433j______2026_05_13_093840.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899088690_9ljx______2026_05_13_093906.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899090227_3jj7______2026_05_13_093927.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.85854830413649,
+            128.64176720380783
           ],
           "autoSyncPost": false
         }
