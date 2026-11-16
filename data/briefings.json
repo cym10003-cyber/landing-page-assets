@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794804277583,
+  "updatedAt": 1794804877523,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794804276025,
+      "updatedAt": 1794804876018,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -261,7 +261,7 @@
             "역세권",
             "렌트프리 협의"
           ],
-          "agentComment": "• 범어동 수성구청역 위치 최상, 병의원 우대, 분할가능\n• 고정주차 1대 제공, 고객주차 1시간 무료\n• 실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어 있습니다.\n• 3층, 4층은 보1억/850만이며, 두개층 임대 가능하고 조건협의 됩니다.",
+          "agentComment": "• 범어동 수성구청역 위치 최상, 병의원 우대, 분할가능\n• 주차 40대, 고정주차 1대 제공, 고객주차 1시간 무료\n• 실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어 있습니다.\n• 3층, 4층은 보1억/850만이며, 두개층 임대 가능하고 조건협의 됩니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900029560_6d2a_KakaoTalk_20260408_174110215_17.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900031437_fn5k_KakaoTalk_20260408_174110215_19.jpg",
@@ -304,7 +304,7 @@
             "대로변/코너",
             "역세권"
           ],
-          "agentComment": "11월말 준공예정으로 4층 전용 약 89평 보1억/월900만으로 2개층 사용 가능합니다.",
+          "agentComment": "•11월말 준공예정으로 4층 전용 약 89평 보1억/월900만으로 2개층 사용 가능합니다.\n• 주차 49대, 고정주차 1대 제공",
           "photos": [],
           "coordinates": [
             35.8581,
@@ -318,8 +318,8 @@
           "postId": "1783899118288",
           "propNo": "1611",
           "tradeType": "rent",
-          "title": "대구 수성구 범어동 비엘e타워 무권리 상가 사무실",
-          "address": "대구광역시 수성구 범어동",
+          "title": "대구 수성구 범어동 제이제이타워 무권리 상가 사무실",
+          "address": "대구광역시 수성구 범어동 217-6",
           "currentFloor": "지상 3층",
           "totalFloor": "지하 1층~지상 11층",
           "floor": "지상 3층 / 총 지하 1층~지상 11층",
@@ -339,7 +339,7 @@
             "즉시입주 가능",
             "대로변/코너"
           ],
-          "agentComment": "• 달구벌대로 범어동 학원가 9월 준공예정인 신축건물\n• 분할 가능합니다.\n• 결정만 해주신다면 조건 최대 협의해드리겠습니다.",
+          "agentComment": "• 교육연구시설(학원)로 되어있으나 26년 9월 준공 건물로 용도변경 바로 가능합니다.\n• 엘베 3대, 외부화장실 2개, 주차 약 95대(주차타워 39대X2개, 자주식 약 17대)",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899080454_sbhe_KakaoTalk_20260508_150345199_03.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783899082201_ljnd_KakaoTalk_20260508_150345199_04.jpg",
@@ -353,6 +353,85 @@
           "coordinates": [
             35.85854830413649,
             128.64176720380783
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "stealth_1794804574987",
+          "postId": "",
+          "propNo": "",
+          "tradeType": "rent",
+          "title": "수성엠비션타워 5층",
+          "address": "대구광역시 수성구 만촌동 1036-2",
+          "currentFloor": "지상 5층",
+          "totalFloor": "지하 2층~지상 10층",
+          "floor": "지상 5층 / 총 지하 2층~지상 10층",
+          "area": "전용 약 153.71평",
+          "deposit": 20000,
+          "rent": 1510,
+          "managementFee": 152,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "내부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "즉시입주 가능",
+            "렌트프리 협의",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 주차 61대, 고정주차는 유료8만원으로 1대가능, 고객주차 30분에 1000원\n• 협력 주차장: 만촌동 1036-26번지 월주차 13만원 부가세포함, 추가 제한없음, 1시간 3000원\n• 공용관리비 공급평당 6500원\n• 교육연구시설(학원), 24년 7월 준공이라 용도변경에 무리 없습니다.\n• 본 건물 9층에 온빛수학학원을 입점시켜서 임대인과 소통이 잘됩니다. 조건협의 최대로 유리하게 해드릴수 있습니다.",
+          "photos": [],
+          "coordinates": [
+            35.8581,
+            128.6205
+          ],
+          "maintVat": false,
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1794804875988_axuo",
+          "postId": "1787615008706",
+          "propNo": "1332",
+          "tradeType": "rent",
+          "title": "수성구 만촌동 무권리 달구벌대로 대형사무실 수성S큐브",
+          "address": "대구광역시 수성구 만촌동",
+          "currentFloor": "지상 9층",
+          "totalFloor": "지하 1층~지상 13층",
+          "floor": "지상 9층 / 총 지하 1층~지상 13층",
+          "area": "전용 약 159.05평",
+          "deposit": 15000,
+          "rent": 750,
+          "managementFee": 182.1,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "냉난방기 있음",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 만촌동 달구벌대로 수성S큐브 대형평수 무권리 매물\n• 천장형냉난방기 8대 기본옵션 제공\n• 주차 70대, 고정주차 6대, 고객주차 1시간 무료",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614982242_fqdv_KakaoTalk_20250928_184733095_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614983950_70mb_KakaoTalk_20250928_184733095_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614986075_pa7d_KakaoTalk_20250928_184733095_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614987781_g28x_KakaoTalk_20250928_184733095_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614989756_tell_KakaoTalk_20250928_184733095_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614991512_2nez_KakaoTalk_20250928_184733095_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787614992854_hs7q_KakaoTalk_20250928_184733095_18.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.858274400040806,
+            128.6466890573502
           ],
           "autoSyncPost": false
         }
