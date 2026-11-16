@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794805523271,
+  "updatedAt": 1794805605751,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,9 +81,9 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794805522591,
+      "updatedAt": 1794805605015,
       "expiresAt": "",
-      "blindAddress": true,
+      "blindAddress": false,
       "showComparisonTable": true,
       "showMonthlyCost": true,
       "includeVat": true,
