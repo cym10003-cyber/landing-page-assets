@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794795044937,
+  "updatedAt": 1794795107774,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794795048285,
+      "updatedAt": 1794795111047,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -451,7 +451,7 @@
           "propNo": "1802",
           "tradeType": "rent",
           "title": "무권리 달서구 두류동 감삼역초역세권 인테리어완비 두류센트레빌더시티 2층 상가임대",
-          "address": "대구광역시 달서구 두류동",
+          "address": "대구광역시 달서구 두류동 2346 두류센트레빌더시티 401동 201호",
           "currentFloor": "지상 2층",
           "totalFloor": "지상 1층~지상 2층",
           "floor": "지상 2층 / 총 지상 1층~지상 2층",
@@ -467,14 +467,14 @@
             "주차 편함",
             "엘리베이터 유",
             "외부화장실",
-            "냉난방기 있음",
             "무권리",
             "인테리어 완비",
             "즉시입주 가능",
             "대로변/코너",
-            "역세권"
+            "역세권",
+            "냉난방기 있음"
           ],
-          "agentComment": "• 두류동 감삼역 초역세권, 두류센트레빌더시티 상가\n• 코너쪽의 호실이라 가시성이 좋음\n• 기본 인테리어 완비",
+          "agentComment": "• 두류동 감삼역 초역세권, 두류센트레빌더시티 상가\n• 코너쪽의 호실이라 가시성이 좋음\n• 기본 인테리어 완비\n• 천장형냉난방기 비용이 소액있으나 인수하지 않아도 됨",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794883893_lblj_KakaoTalk_20261116_105205501.png",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794794885520_6a0m_KakaoTalk_20261116_105205501_01.png",
