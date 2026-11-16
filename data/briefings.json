@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794807647740,
+  "updatedAt": 1794807750512,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794807646735,
+      "updatedAt": 1794807749550,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -92,7 +92,6 @@
       "showMap": true,
       "generalNote": "안녕하세요 최가네부동산입니다. 범어동 및 수성구 피부과 추천 매물 안내해드리겠습니다.",
       "attachedMemoIds": [
-        "memo_doc_rent",
         "memo_special_terms_rent"
       ],
       "customerPicks": [],
@@ -141,7 +140,8 @@
             35.859478701457626,
             128.6242309212685
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "stealth_1794802709241",
@@ -179,11 +179,14 @@
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794803205820_bqnb_e9c72c13787975b7f2ea361747f99972_Photoroom.png"
           ],
           "coordinates": [
-            35.8581,
-            128.6205
+            35.861045320454,
+            128.626006519713
           ],
           "maintVat": false,
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true,
+          "_lastGeocodedAddr": "대구광역시 수성구 범어동 43-8 메타타워V",
+          "_addressDirty": false
         },
         {
           "itemId": "item_1794803289058_is20",
@@ -231,7 +234,8 @@
             35.858413526048956,
             128.62960070371628
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "item_1794803475302_30lx",
@@ -275,7 +279,8 @@
             35.8590526330117,
             128.6331841349602
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "stealth_1794803654969",
@@ -307,11 +312,14 @@
           "agentComment": "•11월말 준공예정으로 4층 전용 약 89평 보1억/월900만으로 2개층 사용 가능합니다.\n• 주차 49대, 고정주차 1대 제공",
           "photos": [],
           "coordinates": [
-            35.8581,
-            128.6205
+            35.858633050629,
+            128.637405908032
           ],
           "maintVat": false,
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true,
+          "_lastGeocodedAddr": "대구광역시 수성구 206-3",
+          "_addressDirty": false
         },
         {
           "itemId": "item_1794804276000_eb3c",
@@ -354,7 +362,8 @@
             35.85854830413649,
             128.64176720380783
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "stealth_1794804574987",
@@ -396,11 +405,14 @@
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794807077422_tf89_KakaoTalk_20260728_122239410_01.jpg"
           ],
           "coordinates": [
-            35.8581,
-            128.6205
+            35.859400665322,
+            128.640694296286
           ],
           "maintVat": false,
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true,
+          "_lastGeocodedAddr": "대구광역시 수성구 만촌동 1036-2 수성엠비션타워",
+          "_addressDirty": false
         },
         {
           "itemId": "item_1794804875988_axuo",
@@ -443,7 +455,8 @@
             35.858274400040806,
             128.6466890573502
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "item_1794805105933_617r",
@@ -492,7 +505,8 @@
             35.85896133233249,
             128.64691436290744
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true
         },
         {
           "itemId": "stealth_1794805221044",
@@ -523,11 +537,14 @@
           "agentComment": "• 주차 94대, 무료주차2대, 손님1시간반 무료주차\n• 건축물용도: 의료시설(병원)",
           "photos": [],
           "coordinates": [
-            35.8581,
-            128.6205
+            35.862180355872,
+            128.626175917977
           ],
           "maintVat": false,
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "rentVat": true,
+          "_lastGeocodedAddr": "대구광역시 수성구 범어동 33-16 범어353타워",
+          "_addressDirty": false
         }
       ]
     },
