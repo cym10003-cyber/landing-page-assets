@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794805422846,
+  "updatedAt": 1794805466479,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794805421988,
+      "updatedAt": 1794805465565,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -240,9 +240,9 @@
           "tradeType": "rent",
           "title": "대구 수성구 범어동 파크타워 무권리 상가 임대",
           "address": "대구광역시 수성구 범어동",
-          "currentFloor": "지상 5층 (실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어있습니다.)",
-          "totalFloor": "지하 1층~지상 12층 (건축물대장의 지하1층이 실제 현황상의 지상1층입니다.)",
-          "floor": "지상 5층 (실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어있습니다.) / 총 지하 1층~지상 12층 (건축물대장의 지하1층이 실제 현황상의 지상1층입니다.)",
+          "currentFloor": "지상 5층",
+          "totalFloor": "지하 1층~지상 12층",
+          "floor": "지상 5층 / 총 지하 1층~지상 12층",
           "area": "전용 약 92평",
           "deposit": 10000,
           "rent": 820,
