@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794803290193,
+  "updatedAt": 1794803476022,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794803289073,
+      "updatedAt": 1794803475319,
       "expiresAt": "",
       "blindAddress": true,
       "showComparisonTable": true,
@@ -126,7 +126,7 @@
             "렌트프리 협의",
             "역세권"
           ],
-          "agentComment": "• 범어동 최고위치의 달구벌대로 무권리 대형 사무실\n• 고정주차 1대, 기본 인테리어완비\n• 관리비는 평당 3-3.5만원 정도 (개별전기요금을 포함한 금액입니다)\n• 용도변경이 필요합니다.\n• 본 건물에 입점된 정형외과는 인근 유료주차장과 계약하여 고객주차를 유도하고 있습니다.",
+          "agentComment": "• 범어동 최고위치의 달구벌대로 무권리 대형 사무실\n• 고정주차 1대, 기본 인테리어완비\n• 관리비는 평당 3-3.5만원 정도 (개별전기요금을 포함한 금액입니다)\n• 업무시설(사무실)로 용도변경이 필요합니다.\n• 본 건물에 입점된 정형외과는 인근 유료주차장과 계약하여 고객주차를 유도하고 있습니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783903191226_iodm_______________01035484000_KakaoTalk_20260331_142821660_04.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783903193075_59nr_______________01035484000_KakaoTalk_20260331_142821660_08.jpg",
@@ -191,7 +191,7 @@
           "propNo": "987",
           "tradeType": "rent",
           "title": "대구 수성구 범어동 무권리 달구벌대로 상가 사무실 임대",
-          "address": "대구광역시 수성구 범어동",
+          "address": "대구광역시 수성구 범어동 189-6 아우름타워",
           "currentFloor": "지상 10층",
           "totalFloor": "지하 3층 ~ 지상 11층",
           "floor": "지상 10층 / 총 지하 3층 ~ 지상 11층",
@@ -212,7 +212,7 @@
             "대로변/코너",
             "테라스/베란다"
           ],
-          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 추천업종 : 병의원, 사무실, 학원 등",
+          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 제1종근린생활시설(의원)\n• 피부과(에디트의원)가 입점되어 있으나 위치 등이 마음에 드셔서 의사가 있을시 임대인에게 물어보겠습니다",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901662381_95u7_KakaoTalk_20251223_111232737_09.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901664301_139w_KakaoTalk_20251223_111232737_13.jpg",
@@ -228,6 +228,48 @@
           "coordinates": [
             35.858413526048956,
             128.62960070371628
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1794803475302_30lx",
+          "postId": "1783900059115",
+          "propNo": "1587",
+          "tradeType": "rent",
+          "title": "대구 수성구 범어동 파크타워 무권리 상가 임대",
+          "address": "대구광역시 수성구 범어동",
+          "currentFloor": "지상 5층 (실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어있습니다.)",
+          "totalFloor": "지하 1층~지상 12층 (건축물대장의 지하1층이 실제 현황상의 지상1층입니다.)",
+          "floor": "지상 5층 (실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어있습니다.) / 총 지하 1층~지상 12층 (건축물대장의 지하1층이 실제 현황상의 지상1층입니다.)",
+          "area": "전용 약 92평",
+          "deposit": 10000,
+          "rent": 820,
+          "managementFee": 145.8,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 범어동 수성구청역 위치 최상, 병의원 우대, 분할가능\n• 고정주차 1대 제공, 고객주차 1시간 무료\n• 실제 현황상으로 6층이며 건축물대장에는 5층으로 기재되어 있습니다.",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900029560_6d2a_KakaoTalk_20260408_174110215_17.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900031437_fn5k_KakaoTalk_20260408_174110215_19.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900033449_835m_KakaoTalk_20260408_174110215_26.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900035281_dwwm_KakaoTalk_20260408_174110215_28.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900036850_f6i5_KakaoTalk_20260408_174155962_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783900038639_fztn_KakaoTalk_20260408_174155962_25.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.8590526330117,
+            128.6331841349602
           ],
           "autoSyncPost": false
         }
