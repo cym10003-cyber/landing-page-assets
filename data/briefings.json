@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794793779555,
+  "updatedAt": 1794794651014,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794793782849,
+      "updatedAt": 1794794653798,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -349,7 +349,7 @@
           "propNo": "1681",
           "tradeType": "rent",
           "title": "동구 신암동 무권리 인테리어 완비 상가 사무실",
-          "address": "대구광역시 동구 신암동",
+          "address": "대구광역시 동구 신암동 332-8",
           "currentFloor": "지상 3층",
           "totalFloor": "지하 1층~지상 5층",
           "floor": "지상 3층 / 총 지하 1층~지상 5층",
@@ -401,7 +401,7 @@
           "propNo": "1747",
           "tradeType": "rent",
           "title": "남산동 반월당역 인테리어완비 무권리 주차 편리한",
-          "address": "대구광역시 중구 남산동",
+          "address": "대구광역시 중구 남산동 688-5",
           "currentFloor": "지상 3층",
           "totalFloor": "지상 1층~지상 5층",
           "floor": "지상 3층 / 총 지상 1층~지상 5층",
