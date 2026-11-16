@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794792838589,
+  "updatedAt": 1794792859826,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794792841954,
+      "updatedAt": 1794792863402,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -144,6 +144,59 @@
           "coordinates": [
             35.82250222273537,
             128.6379557847977
+          ]
+        },
+        {
+          "itemId": "item_1794792863389_jr3x",
+          "postId": "1789513120255",
+          "propNo": "1442",
+          "tradeType": "rent",
+          "title": "무권리 북구 산격동 최신인테리어 완비 주차편리",
+          "address": "대구광역시 북구 산격동",
+          "currentFloor": "지상 2층",
+          "totalFloor": "지하 1층~지상 5층",
+          "floor": "지상 2층 / 총 지하 1층~지상 5층",
+          "area": "약 55평",
+          "deposit": 4000,
+          "rent": 192.5,
+          "managementFee": 27.5,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "탕비실/싱크대",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 산격동 무권리 새 인테리어 후 첫 입주\n• 천장형냉난방기 3대 기본옵션, 탕비실, 엘베, 외부화장실 2개\n• 건물 내 주차 21대, 고정주차없이 선착순으로 편하게 이용",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513039296_mqtr_KakaoTalk_20260202_080405358_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513041064_m7xn_KakaoTalk_20260202_080405358_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513042712_yn7u_KakaoTalk_20260202_080405358_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513044937_plv0_KakaoTalk_20260202_080405358_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513046988_zqli_KakaoTalk_20260202_080405358_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513048715_xysg_KakaoTalk_20260202_080405358_16.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513050345_kp2p_KakaoTalk_20260202_080405358_18.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513052337_utkg_KakaoTalk_20260202_080405358_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513054319_85ab_KakaoTalk_20260202_080405358_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513056259_6wq3_KakaoTalk_20260202_080405358_24.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513058029_50qp_KakaoTalk_20260202_080405358_27.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513059387_6w30_KakaoTalk_20260202_080405358_29.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513060946_9l84_KakaoTalk_20260202_080420511_01.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513062502_ddk4_KakaoTalk_20260202_080420511_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1789513078775_ec2r_KakaoTalk_20251208_150218451_20.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.905128657799494,
+            128.61197054386142
           ]
         }
       ]
