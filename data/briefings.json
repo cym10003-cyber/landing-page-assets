@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794805616851,
+  "updatedAt": 1794805618948,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,14 +81,14 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794805616130,
+      "updatedAt": 1794805618424,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
       "showMonthlyCost": false,
       "includeVat": true,
       "includeMaintVat": true,
-      "showYield": true,
+      "showYield": false,
       "showMap": true,
       "generalNote": "안녕하세요 최가네부동산입니다. 범어동 및 수성구 피부과 추천 매물 안내해드리겠습니다.",
       "attachedMemoIds": [
