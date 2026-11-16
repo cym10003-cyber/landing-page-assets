@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794797433302,
+  "updatedAt": 1794797452729,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794797436200,
+      "updatedAt": 1794797456240,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -144,7 +144,8 @@
           "coordinates": [
             35.82250222273537,
             128.6379557847977
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794792863389_jr3x",
@@ -197,7 +198,8 @@
           "coordinates": [
             35.905128657799494,
             128.61197054386142
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794792887554_3ihm",
@@ -243,7 +245,8 @@
           "coordinates": [
             35.848952401292024,
             128.60832542181015
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794793278197_6f5b",
@@ -290,7 +293,8 @@
           "coordinates": [
             35.86353927968325,
             128.64160627126697
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794793485602_j6h2",
@@ -341,7 +345,8 @@
           "coordinates": [
             35.82686480444373,
             128.6101278662682
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794793610517_s1u7",
@@ -393,7 +398,8 @@
           "coordinates": [
             35.883739085534,
             128.63152652978897
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794793782824_l16b",
@@ -443,7 +449,8 @@
           "coordinates": [
             35.860630813847486,
             128.59488755464554
-          ]
+          ],
+          "autoSyncPost": false
         },
         {
           "itemId": "item_1794795048257_zlbp",
@@ -486,7 +493,8 @@
           "coordinates": [
             35.85251784740962,
             128.54943215847018
-          ]
+          ],
+          "autoSyncPost": false
         }
       ]
     },
