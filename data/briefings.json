@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794795144842,
+  "updatedAt": 1794795178209,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794795148184,
+      "updatedAt": 1794795181686,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -308,7 +308,7 @@
           "managementFee": 20,
           "maintVat": true,
           "premium": 0,
-          "premiumText": "문의 (적극협의 가능)",
+          "premiumText": "2000",
           "salePrice": 0,
           "badges": [
             "주차 편함",
