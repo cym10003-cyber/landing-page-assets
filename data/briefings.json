@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794795228558,
+  "updatedAt": 1794795382930,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "사무실 매물 리스트",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794795231827,
+      "updatedAt": 1794795386198,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -226,7 +226,7 @@
             "대로변/코너",
             "고정주차 3대"
           ],
-          "agentComment": "• 수성동 대구 전지역 이동이 편리한 무권리 사무실\n• 주차완비, 고정주차 3대, 엘베, 화장실 2개\n• 26.11.16 현재 기본인테리어 완비된 깔끔한 공실입니다",
+          "agentComment": "• 수성동 대구 전지역 이동이 편리한 무권리 사무실\n• 주차완비, 고정주차 3대, 엘베, 화장실 2개\n• 26.11.16 현재 기존임차인 퇴거하였으며, 기본인테리어 완비된 깔끔한 공실입니다",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010197912_fl43_01035484000KakaoTalk_20251001_151849663_12.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784010200402_0w7o_01035484000KakaoTalk_20251001_151849663_15.jpg",
