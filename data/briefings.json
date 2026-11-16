@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794805648879,
+  "updatedAt": 1794805692268,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "범어동 및 수성구 피부과 추천 매물입니다.",
       "createdAt": "2026. 11. 16",
-      "updatedAt": 1794805648200,
+      "updatedAt": 1794805691464,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -239,7 +239,7 @@
           "propNo": "1587",
           "tradeType": "rent",
           "title": "대구 수성구 범어동 파크타워 무권리 상가 임대",
-          "address": "대구광역시 수성구 범어동",
+          "address": "대구광역시 수성구 범어동 167-15",
           "currentFloor": "지상 5층",
           "totalFloor": "지하 1층~지상 12층",
           "floor": "지상 5층 / 총 지하 1층~지상 12층",
