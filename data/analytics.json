@@ -1,6 +1,6 @@
 {
-  "totalPageviews": 9480,
-  "todayPageviews": 35,
+  "totalPageviews": 9481,
+  "todayPageviews": 36,
   "dailyHistory": {
     "2026-10-30": {
       "date": "2026-10-30",
@@ -5610,10 +5610,10 @@
     },
     "2026-11-19": {
       "date": "2026-11-19",
-      "count": 35,
+      "count": 36,
       "referrers": {
         "직접 접속 / 카카오톡 링크": 3,
-        "네이버 (Naver)": 4,
+        "네이버 (Naver)": 5,
         "구글 (Google)": 1
       },
       "postViews": {
