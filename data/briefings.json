@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1794807757475,
+  "updatedAt": 1795151438784,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -75,6 +75,83 @@
     }
   ],
   "briefings": [
+    {
+      "id": "br_mwois432",
+      "customerName": "컨설팅사무실",
+      "customerPhone": "",
+      "title": "매물 보내드립니다^^",
+      "createdAt": "2026. 11. 20",
+      "updatedAt": 1795151437587,
+      "expiresAt": "",
+      "blindAddress": false,
+      "showComparisonTable": true,
+      "showMonthlyCost": false,
+      "includeVat": true,
+      "includeMaintVat": false,
+      "showYield": false,
+      "showMap": true,
+      "generalNote": "최가네부동산 매물 보내드립니다. 검토해보시고 편하게 연락주세요^^",
+      "attachedMemoIds": [
+        "memo_doc_rent",
+        "memo_special_terms_rent"
+      ],
+      "customerPicks": [],
+      "items": [
+        {
+          "itemId": "item_1795151437575_qhnc",
+          "postId": "1794211097718",
+          "propNo": "1786",
+          "tradeType": "rent",
+          "title": "무권리 인테리어완비 시설완비 수성구 대흥동 알파시티 주차편리한",
+          "address": "대구광역시 수성구 대흥동",
+          "currentFloor": "지상 4층",
+          "totalFloor": "지하 1층~지상 8층",
+          "floor": "지상 4층 / 총 지하 1층~지상 8층",
+          "area": "전용 약 34.55평",
+          "deposit": 5000,
+          "rent": 200,
+          "rentVat": true,
+          "managementFee": 17.5,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "룸/칸막이 완비",
+            "탕비실/싱크대",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 대흥동 알파시티 인테리어 및 시설완비된 무권리 사무실\n• 중앙홀, 칸막이 2개, 천장형냉난방기 2대 기본옵션 제공, 싱크대, 외부화장실 2개\n• 고정주차 1대 제공, 건물 바로 옆에 공한지 주차장 있음",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794210997261_jcvz_KakaoTalk_20261109_160929307_02.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794210998783_lzh8_KakaoTalk_20261109_160929307_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211000193_entd_KakaoTalk_20261109_160929307_04.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211001670_f1a0_KakaoTalk_20261109_160929307_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211003118_1q6i_KakaoTalk_20261109_160929307_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211004736_rs8e_KakaoTalk_20261109_160929307_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211006294_82wj_KakaoTalk_20261109_160929307_08.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211007860_3smu_KakaoTalk_20261109_160929307_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211009623_cygf_KakaoTalk_20261109_160929307_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211011249_m502_KakaoTalk_20261109_160929307_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211013303_nu78_KakaoTalk_20261109_160929307_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1794211014627_sbwh_KakaoTalk_20261109_160929307_13.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.8370200353077,
+            128.68175089359286
+          ],
+          "autoSyncPost": false
+        }
+      ]
+    },
     {
       "id": "br_mwir33n7",
       "customerName": "미용피부과",
