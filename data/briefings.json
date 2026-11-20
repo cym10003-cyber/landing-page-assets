@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795151636089,
+  "updatedAt": 1795151643067,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795151635111,
+      "updatedAt": 1795151642019,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -92,7 +92,6 @@
       "showMap": true,
       "generalNote": "최가네부동산 매물 보내드립니다. 검토해보시고 편하게 연락주세요^^",
       "attachedMemoIds": [
-        "memo_doc_rent",
         "memo_special_terms_rent"
       ],
       "customerPicks": [],
