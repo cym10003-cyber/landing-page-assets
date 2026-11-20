@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795153932953,
+  "updatedAt": 1795154044554,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795153931914,
+      "updatedAt": 1795154043331,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -259,7 +259,7 @@
           "propNo": "1681",
           "tradeType": "rent",
           "title": "동구 신암동 무권리 인테리어 완비 상가 사무실",
-          "address": "대구광역시 동구 신암동",
+          "address": "대구광역시 동구 신암동 332-8번지",
           "currentFloor": "지상 3층",
           "totalFloor": "지하 1층~지상 5층",
           "floor": "지상 3층 / 총 지하 1층~지상 5층",
@@ -302,10 +302,12 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.883739085534,
-            128.63152652978897
+            35.883813461235,
+            128.631352749016
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 동구 신암동 332-8번지"
         },
         {
           "itemId": "item_1795153799081_c049",
@@ -313,7 +315,7 @@
           "propNo": "1511",
           "tradeType": "rent",
           "title": "대구 수성구 만촌동 시설완비 무권리 사무실 임대",
-          "address": "대구광역시 수성구 만촌동",
+          "address": "대구광역시 수성구 만촌동 960-8번지",
           "currentFloor": "지상 3층",
           "totalFloor": "지하 1층~지상4층",
           "floor": "지상 3층 / 총 지하 1층~지상4층",
@@ -351,10 +353,12 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.86353927968325,
-            128.64160627126697
+            35.863744586643,
+            128.641542628706
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_lastGeocodedAddr": "대구광역시 수성구 만촌동 960-8번지",
+          "_addressDirty": false
         },
         {
           "itemId": "item_1795153869988_kbs2",
@@ -362,7 +366,7 @@
           "propNo": "1334",
           "tradeType": "rent",
           "title": "대구 수성구 수성동1가 무권리 신천동로 사무실 임대 상가",
-          "address": "대구광역시 수성구 수성동1가",
+          "address": "대구광역시 수성구 수성동1가 649-43번지",
           "currentFloor": "지상 2층",
           "totalFloor": "지하 1층~지상 4층",
           "floor": "지상 2층 / 총 지하 1층~지상 4층",
@@ -399,10 +403,12 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.848952401292024,
-            128.60832542181015
+            35.849179227766,
+            128.608421873585
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 수성구 수성동1가 649-43번지"
         },
         {
           "itemId": "item_1795153931887_lqst",
@@ -410,7 +416,7 @@
           "propNo": "1747",
           "tradeType": "rent",
           "title": "남산동 반월당역 인테리어완비 무권리 주차 편리한",
-          "address": "대구광역시 중구 남산동",
+          "address": "대구광역시 중구 남산동 688-5번지",
           "currentFloor": "지상 3층",
           "totalFloor": "지상 1층~지상 5층",
           "floor": "지상 3층 / 총 지상 1층~지상 5층",
@@ -451,10 +457,12 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.860630813847486,
-            128.59488755464554
+            35.860691226954,
+            128.594916532093
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 중구 남산동 688-5번지"
         }
       ]
     },
