@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795151907124,
+  "updatedAt": 1795152332170,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795151906167,
+      "updatedAt": 1795152330962,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
