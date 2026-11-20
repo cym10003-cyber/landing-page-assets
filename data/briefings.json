@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795151644251,
+  "updatedAt": 1795151780309,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795151643114,
+      "updatedAt": 1795151779282,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -155,7 +155,7 @@
           "propNo": "1670",
           "tradeType": "rent",
           "title": "대구 수성구 두산동 무권리 인테리어 완비 스튜디오 뷰티샵 사무실 상가 임대",
-          "address": "대구광역시 수성구 두산동",
+          "address": "대구광역시 수성구 두산동 65-5번지",
           "currentFloor": "지상 2층",
           "totalFloor": "지상 1층~지상 4층",
           "floor": "지상 2층 / 총 지상 1층~지상 4층",
@@ -197,8 +197,57 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.83585888200106,
-            128.61804038286212
+            35.835993613971,
+            128.618158879046
+          ],
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 수성구 두산동 65-5번지"
+        },
+        {
+          "itemId": "item_1795151779268_l4k4",
+          "postId": "1783992285780",
+          "propNo": "1633",
+          "tradeType": "rent",
+          "title": "대구 수성구 두산동 인테리어완비 사무실 임대 수성못역 인근",
+          "address": "대구광역시 수성구 두산동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지상 1층~지상 4층",
+          "floor": "지상 3층 / 총 지상 1층~지상 4층",
+          "area": "약 35평",
+          "deposit": 2000,
+          "rent": 150,
+          "rentVat": true,
+          "managementFee": 10,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "즉시입주 가능",
+            "대로변/코너",
+            "테라스/베란다"
+          ],
+          "agentComment": "• 두산동 시설완비, 인테리어 완비된 무권리 사무실, 스탠드냉난방기1대, 벽걸이냉난방기 2대, 테라스있음\n• 고정주차 1대 제공, 현재 1층이 비어있어 2대정도 주차사용중\n• 추천업종 : 사무실 등",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992261023_53wr________01035484000_KakaoTalk_20260602_120534327_01.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992263095_4hrz________01035484000_KakaoTalk_20260602_120534327_02.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992265298_kr21________01035484000_KakaoTalk_20260602_120534327_03.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992267410_v6uh________01035484000_KakaoTalk_20260602_120534327_04.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992269565_dsn8________01035484000_KakaoTalk_20260602_120534327_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992271338_piko________01035484000_KakaoTalk_20260602_120534327_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992273256_4jsa________01035484000_KakaoTalk_20260602_120534327_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783992275224_8pbv________01035484000_KakaoTalk_20260602_120534327_08.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.83307987306017,
+            128.62154066562655
           ],
           "autoSyncPost": false
         }
