@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795152332170,
+  "updatedAt": 1795153781255,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795152330962,
+      "updatedAt": 1795153779615,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -252,6 +252,60 @@
           "autoSyncPost": false,
           "_addressDirty": false,
           "_lastGeocodedAddr": "대구광역시 수성구 두산동 194-12번지"
+        },
+        {
+          "itemId": "item_1795153779598_rrvh",
+          "postId": "1786593856919",
+          "propNo": "1681",
+          "tradeType": "rent",
+          "title": "동구 신암동 무권리 인테리어 완비 상가 사무실",
+          "address": "대구광역시 동구 신암동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지하 1층~지상 5층",
+          "floor": "지상 3층 / 총 지하 1층~지상 5층",
+          "area": "약 50.04평",
+          "deposit": 2000,
+          "rent": 150,
+          "rentVat": true,
+          "managementFee": 15,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "내부화장실",
+            "무권리",
+            "인테리어 완비",
+            "룸/칸막이 완비",
+            "즉시입주 가능",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 무권리 인테리어 완비 깔끔 사무실, 중앙홀, 칸막이공간 2개, 내부화장실2개, 엘베\n• 건물 뒤에 주차장 있음, 고정주차 1대 제공, 길건너 동대구역 3주차장이 있어 주차 편리\n• 추천업종 : 사무실 등",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593658723_0pc9_KakaoTalk_20260813_124339537_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593660299_z5zn_KakaoTalk_20260813_124339537_08.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593661526_4x4a_KakaoTalk_20260813_124339537_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593663096_ty8a_KakaoTalk_20260813_124339537_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593664667_qejh_KakaoTalk_20260813_124339537_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593666428_d34e_KakaoTalk_20260813_124339537_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593668001_61ar_KakaoTalk_20260813_124339537_17.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593669594_oawr_KakaoTalk_20260813_124339537_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593671484_1lga_KakaoTalk_20260813_124339537_21.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593673054_3vav_KakaoTalk_20260813_124339537_23.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593674650_lkvs_KakaoTalk_20260813_124339537_24.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593676756_kniw_KakaoTalk_20260813_124339537_25.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593678549_bog7_KakaoTalk_20260813_124339537_27.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593680613_x4rc_KakaoTalk_20260813_124345069.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1786593682242_1m8q_KakaoTalk_20260813_124345069_02.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.883739085534,
+            128.63152652978897
+          ],
+          "autoSyncPost": false
         }
       ]
     },
