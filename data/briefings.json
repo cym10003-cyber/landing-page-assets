@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795153781255,
+  "updatedAt": 1795153800121,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795153779615,
+      "updatedAt": 1795153799102,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -304,6 +304,55 @@
           "coordinates": [
             35.883739085534,
             128.63152652978897
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1795153799081_c049",
+          "postId": "1783985170239",
+          "propNo": "1511",
+          "tradeType": "rent",
+          "title": "대구 수성구 만촌동 시설완비 무권리 사무실 임대",
+          "address": "대구광역시 수성구 만촌동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지하 1층~지상4층",
+          "floor": "지상 3층 / 총 지하 1층~지상4층",
+          "area": "약 45평",
+          "deposit": 3000,
+          "rent": 120,
+          "rentVat": true,
+          "managementFee": 0,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "엘리베이터 유",
+            "외부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 만촌동 인테리어 및 시설완비된 무권리 사무실\n• 무권리 매물로 내부 집기 및 냉난방기는 제외됩니다\n• 건물내 주차 5대 및 선착순 주차, 주변에 주차할 곳 많습니다",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985130056_dvxx_______________01035484000_KakaoTalk_20260213_104837412_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985131963_mzax_______________01035484000_KakaoTalk_20260213_104837412_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985133634_mgct_______________01035484000_KakaoTalk_20260213_104837412_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985135498_67v7_______________01035484000_KakaoTalk_20260213_104837412_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985137419_hhet_______________01035484000_KakaoTalk_20260213_104837412_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985138927_g7nf_______________01035484000_KakaoTalk_20260213_104837412_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985140672_3gca_______________01035484000_KakaoTalk_20260213_104837412_24.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985142503_oflk_______________01035484000_KakaoTalk_20260213_104837412_25.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985143934_6eru_______________01035484000_KakaoTalk_20260213_104837412_28.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985145571_2b64_______________01035484000_KakaoTalk_20260213_104840050.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1783985147371_xgme_______________01035484000_KakaoTalk_20260213_104840050_02.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.86353927968325,
+            128.64160627126697
           ],
           "autoSyncPost": false
         }
