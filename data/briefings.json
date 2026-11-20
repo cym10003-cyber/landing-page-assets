@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795153870837,
+  "updatedAt": 1795153932953,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "매물 보내드립니다^^",
       "createdAt": "2026. 11. 20",
-      "updatedAt": 1795153870011,
+      "updatedAt": 1795153931914,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": true,
@@ -401,6 +401,58 @@
           "coordinates": [
             35.848952401292024,
             128.60832542181015
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1795153931887_lqst",
+          "postId": "1791327135735",
+          "propNo": "1747",
+          "tradeType": "rent",
+          "title": "남산동 반월당역 인테리어완비 무권리 주차 편리한",
+          "address": "대구광역시 중구 남산동",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지상 1층~지상 5층",
+          "floor": "지상 3층 / 총 지상 1층~지상 5층",
+          "area": "약 48.54평",
+          "deposit": 3000,
+          "rent": 140,
+          "rentVat": true,
+          "managementFee": 10,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "내부화장실",
+            "냉난방기 있음",
+            "무권리",
+            "인테리어 완비",
+            "룸/칸막이 완비",
+            "즉시입주 가능",
+            "대로변/코너",
+            "역세권"
+          ],
+          "agentComment": "• 남산동 반월당역 역세권, 인테리어 완비된 사무실\n• 칸막이공간 2개, 중앙홀 1개\n• 무권리 매물로 냉난방기 등 내부의 집기들은 모두 제외됨",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327103045_ncwo_KakaoTalk_20261007_073318373_05.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327104960_aj88_KakaoTalk_20261007_073318373_07.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327106796_1srr_KakaoTalk_20261007_073318373_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327108740_vqz1_KakaoTalk_20261007_073318373_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327110076_cnh5_KakaoTalk_20261007_073318373_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327111380_1c5a_KakaoTalk_20261007_073318373_17.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327112930_l9le_KakaoTalk_20261007_073318373_19.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327114417_p02y_KakaoTalk_20261007_073318373_20.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327115986_7ylu_KakaoTalk_20261007_073318373_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327117659_5px0_KakaoTalk_20261007_073318373_23.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1791327119173_p33k_KakaoTalk_20261007_073318373_26.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.860630813847486,
+            128.59488755464554
           ],
           "autoSyncPost": false
         }
