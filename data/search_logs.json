@@ -1,5 +1,11 @@
 [
   {
+    "query": "수성동",
+    "device": "mobile",
+    "timestamp": 1795413729898,
+    "date": "2026. 11. 23. 오후 3:02:09"
+  },
+  {
     "query": "1695",
     "device": "desktop",
     "timestamp": 1794889920066,
