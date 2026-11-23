@@ -1,6 +1,6 @@
 {
-  "totalPageviews": 9761,
-  "todayPageviews": 98,
+  "totalPageviews": 9762,
+  "todayPageviews": 99,
   "dailyHistory": {
     "2026-10-30": {
       "date": "2026-10-30",
@@ -5575,9 +5575,9 @@
     },
     "2026-11-23": {
       "date": "2026-11-23",
-      "count": 98,
+      "count": 99,
       "referrers": {
-        "네이버 (Naver)": 12,
+        "네이버 (Naver)": 13,
         "직접 접속 / 카카오톡 링크": 16
       },
       "postViews": {
@@ -5614,6 +5614,9 @@
       "likes": {
         "1792108043992": 1,
         "1784001342956": 1
+      },
+      "searchKeywords": {
+        "[네이버] 남산동사무실임대 중구사무실임대 남산동150평대 | 대구 중구": 1
       }
     }
   },
