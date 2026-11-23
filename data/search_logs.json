@@ -1,5 +1,13 @@
 [
   {
+    "query": "상인동",
+    "source": "홈페이지 검색",
+    "device": "desktop",
+    "timestamp": 1795425682107,
+    "date": "2026. 11. 23. 오후 6:21:22",
+    "dateKey": "2026-11-23"
+  },
+  {
     "query": "대구상가임대 대구사무실임대 전문",
     "source": "다음/카카오",
     "device": "desktop",
