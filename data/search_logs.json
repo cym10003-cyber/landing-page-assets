@@ -1,5 +1,13 @@
 [
   {
+    "query": "달서구",
+    "source": "홈페이지 검색",
+    "device": "desktop",
+    "timestamp": 1795425689203,
+    "date": "2026. 11. 23. 오후 6:21:29",
+    "dateKey": "2026-11-23"
+  },
+  {
     "query": "상인동",
     "source": "홈페이지 검색",
     "device": "desktop",
