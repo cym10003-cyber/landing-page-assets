@@ -5570,10 +5570,13 @@
       "count": 1,
       "referrers": {},
       "postViews": {
-        "1788502219411": 1
+        "1788502219411": 1,
+        "1784084835257": 1
       },
       "likes": {},
-      "inflowLandings": {}
+      "inflowLandings": {
+        "네이버||1784084835257": 1
+      }
     }
   },
   "searchLogs": [
