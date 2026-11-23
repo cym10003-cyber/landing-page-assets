@@ -1,5 +1,13 @@
 [
   {
+    "query": "달서구 지하실",
+    "source": "홈페이지 검색",
+    "device": "desktop",
+    "timestamp": 1795425700253,
+    "date": "2026. 11. 23. 오후 6:21:40",
+    "dateKey": "2026-11-23"
+  },
+  {
     "query": "달서구",
     "source": "홈페이지 검색",
     "device": "desktop",
