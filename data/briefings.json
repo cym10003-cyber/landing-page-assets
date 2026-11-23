@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795412853644,
+  "updatedAt": 1795412853946,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "e편한세상 동대구역 센텀스퀘어 3층 전용 약 204.89평",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795412853977,
+      "updatedAt": 1795412855182,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
@@ -91,9 +91,7 @@
       "showYield": false,
       "showMap": false,
       "generalNote": "동대구역 바로 앞에 위치한 e편한세상 동대구역 센텀스퀘어입니다.",
-      "attachedMemoIds": [
-        "memo_special_terms_rent"
-      ],
+      "attachedMemoIds": [],
       "customerPicks": [],
       "items": [
         {
