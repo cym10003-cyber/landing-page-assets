@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795154044554,
+  "updatedAt": 1795412853644,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -75,6 +75,146 @@
     }
   ],
   "briefings": [
+    {
+      "id": "br_mwstm54c",
+      "customerName": "메트라이프",
+      "customerPhone": "",
+      "title": "e편한세상 동대구역 센텀스퀘어 3층 전용 약 204.89평",
+      "createdAt": "2026. 11. 23",
+      "updatedAt": 1795412853977,
+      "expiresAt": "",
+      "blindAddress": false,
+      "showComparisonTable": false,
+      "showMonthlyCost": false,
+      "includeVat": false,
+      "includeMaintVat": false,
+      "showYield": false,
+      "showMap": false,
+      "generalNote": "동대구역 바로 앞에 위치한 e편한세상 동대구역 센텀스퀘어입니다.",
+      "attachedMemoIds": [
+        "memo_special_terms_rent"
+      ],
+      "customerPicks": [],
+      "items": [
+        {
+          "itemId": "stealth_1795411580994",
+          "postId": "",
+          "propNo": "1810",
+          "tradeType": "rent",
+          "title": "e편한세상 동대구역 센텀스퀘어 3층(319호, 302호, 321호, 322호) 전용 약 204.89평",
+          "address": "대구광역시 동구 신천동 1542번지",
+          "currentFloor": "지상 3층",
+          "totalFloor": "지하 1층~지상 5층",
+          "floor": "지상 3층 / 총 지하 1층~지상 5층",
+          "area": "전용 약 204.89평",
+          "deposit": 43050,
+          "rent": 2870,
+          "rentVat": true,
+          "managementFee": 684.4,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "무권리",
+            "즉시입주 가능",
+            "외부화장실",
+            "엘리베이터 유",
+            "대로변/코너",
+            "역세권",
+            "고정주차 8대 제공"
+          ],
+          "agentComment": "공급면적 약 456.32평 (1508.5127㎡), 전용면적 약 204.89평 (677.3323㎡)\n월세 전용면적평당 14만원, 보증금 월세x15개월\n공용관리비 공급면적의 평당 1.5만원\n주차 176대, 고정주차 8대 제공, 고객주차 30분 500원(주차권 구매시)\n주차요금도 선결제 가능함(4시간x40명x25일=400만원)",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412754866_zbm0_319_322_.png"
+          ],
+          "coordinates": [
+            35.876476027014,
+            128.627885993862
+          ],
+          "_addressDirty": false,
+          "autoSyncPost": false,
+          "_lastGeocodedAddr": "대구광역시 동구 신천동 1542번지",
+          "officialDocs": [
+            {
+              "id": "doc_1795412264200_fpal",
+              "docType": "건축물대장",
+              "fileName": "신천동 1542 e편한세상 동대구역 센텀스퀘어 301동 319호.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@12a2325babf312dfc0a5eaae290675c106bcdb64/docs/official_pdf_1795412258523_126k.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412261468_pa4g_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412262786_7fgh_page_2.png"
+              ],
+              "pageCount": 2,
+              "uploadedAt": 1795412264200
+            },
+            {
+              "id": "doc_1795412270059_1tdz",
+              "docType": "건축물대장",
+              "fileName": "신천동 1542 e편한세상 동대구역 센텀스퀘어 301동 320호.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@eed1dd0580ee171736ca7679d960c418da058306/docs/official_pdf_1795412264228_8i00.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412266259_znn5_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412268330_ran5_page_2.png"
+              ],
+              "pageCount": 2,
+              "uploadedAt": 1795412270059
+            },
+            {
+              "id": "doc_1795412277717_4pau",
+              "docType": "건축물대장",
+              "fileName": "신천동 1542 e편한세상 동대구역 센텀스퀘어 301동 321호.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@8d1b1f97171f246bb3f28edcffed9398a9046f40/docs/official_pdf_1795412270071_izw5.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412273016_uoko_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412275567_z834_page_2.png"
+              ],
+              "pageCount": 2,
+              "uploadedAt": 1795412277717
+            },
+            {
+              "id": "doc_1795412283617_5zek",
+              "docType": "건축물대장",
+              "fileName": "신천동 1542 e편한세상 동대구역 센텀스퀘어 301동 322호.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@7c4eeb8e0647f4c8d0a7a86b0478e16a18e61a8b/docs/official_pdf_1795412277746_lttn.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412280662_qtjp_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412282267_lycx_page_2.png"
+              ],
+              "pageCount": 2,
+              "uploadedAt": 1795412283617
+            },
+            {
+              "id": "doc_1795412374132_oozo",
+              "docType": "건축물대장",
+              "fileName": "건축물대장 동대구역 센텀스퀘어 301동.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@a778c43599fdf70ddde3bc881fe62eb9fe6c6490/docs/official_pdf_1795412367175_1wqn.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412369319_a4i5_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412370933_c678_page_2.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412372589_pqbq_page_3.png"
+              ],
+              "pageCount": 3,
+              "uploadedAt": 1795412374132
+            },
+            {
+              "id": "doc_1795412380585_bvz7",
+              "docType": "건축물대장",
+              "fileName": "건축물대장 동대구역 센텀스퀘어.pdf",
+              "pdfUrl": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@a78a99639f2e371eea642537ebda682a19466cd9/docs/official_pdf_1795412374143_e9l4.pdf",
+              "pageImages": [
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412375739_mabh_page_1.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412377567_1lew_page_2.png",
+                "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1795412379067_0mjw_page_3.png"
+              ],
+              "pageCount": 3,
+              "uploadedAt": 1795412380585
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "br_mwois432",
       "customerName": "컨설팅사무실",
