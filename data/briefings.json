@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795587486212,
+  "updatedAt": 1795587503545,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "메트라이프 사무실 매물리스트",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795587484781,
+      "updatedAt": 1795587502601,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
@@ -386,6 +386,53 @@
           "coordinates": [
             35.86740402653949,
             128.62728059291842
+          ],
+          "autoSyncPost": false
+        },
+        {
+          "itemId": "item_1795587502586_et68",
+          "postId": "1783901695498",
+          "propNo": "987",
+          "tradeType": "rent",
+          "title": "대구 수성구 범어동 무권리 달구벌대로 상가 사무실 임대",
+          "address": "대구광역시 수성구 범어동",
+          "currentFloor": "지상 10층",
+          "totalFloor": "지하 3층 ~ 지상 11층",
+          "floor": "지상 10층 / 총 지하 3층 ~ 지상 11층",
+          "area": "전용 약 173평",
+          "deposit": 20000,
+          "rent": 1400,
+          "rentVat": true,
+          "managementFee": 311.6,
+          "maintVat": false,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "엘리베이터 유",
+            "외부화장실",
+            "무권리",
+            "즉시입주 가능",
+            "대로변/코너",
+            "테라스/베란다"
+          ],
+          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 추천업종 : 병의원, 사무실, 학원 등",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901662381_95u7_KakaoTalk_20251223_111232737_09.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901664301_139w_KakaoTalk_20251223_111232737_13.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901666377_sovo_KakaoTalk_20251223_111232737_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901668345_ima9_KakaoTalk_20251223_111232737_18.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901670359_01se_KakaoTalk_20251223_111232737_22.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901672295_j9pn_KakaoTalk_20251223_111232737_25.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901674106_8yd1_KakaoTalk_20251223_111243662.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901675511_2p3e_KakaoTalk_20251223_111243662_06.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901678292_n76h_KakaoTalk_20251223_111243662_09.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.858413526048956,
+            128.62960070371628
           ],
           "autoSyncPost": false
         }
