@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795589155030,
+  "updatedAt": 1795589161060,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "메트라이프 사무실 매물리스트",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795589153851,
+      "updatedAt": 1795589159898,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
