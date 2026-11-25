@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795587503545,
+  "updatedAt": 1795588009323,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "메트라이프 사무실 매물리스트",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795587502601,
+      "updatedAt": 1795588007782,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
@@ -351,8 +351,8 @@
           "postId": "1783905963561",
           "propNo": "1454",
           "tradeType": "rent",
-          "title": "대구 동구 신천동 시설완비 무권리 사무실 벤처밸리네거리",
-          "address": "대구광역시 동구 신천동",
+          "title": "대구 동구 신천동 벤처벨리네거리 아모레퍼시픽 사옥",
+          "address": "대구광역시 동구 신천동 300-12번지",
           "currentFloor": "지상4층",
           "totalFloor": "지하1층~지상8층",
           "floor": "지상4층 / 총 지하1층~지상8층",
@@ -371,9 +371,11 @@
             "무권리",
             "인테리어 완비",
             "즉시입주 가능",
-            "대로변/코너"
+            "대로변/코너",
+            "냉난방기 있음",
+            "엘리베이터 유"
           ],
-          "agentComment": "• 구.MBC네거리 코너 위치 최상, 주차 100대로 매우 편리\n• 인테리어 최상급, 무료주차 8대 제공, 구역을 나누어 주차하여 주차 편의성 좋음\n• 사무실청소, 전기요금 등 모두 공용관리비에 포함됨",
+          "agentComment": "• 구.MBC네거리 코너 위치 최상, 주차 100대로 매우 편리\n• 인테리어 최상급, 무료주차 8대 제공, 구역을 나누어 주차하여 주차 편의성 좋음, 고객주차 무료\n• 사무실청소, 전기요금 등 모두 공용관리비에 포함됨\n• 본 매물은 아모레퍼시픽에서 사옥매매도 내놔서 계약시에는 매각될시 명도될 수도 있다는 조항과 상호협의하에 3개월 이전에 통보하면 임대차계약 중도해지도 가능하다는 조항을 특약으로 적어야 할수 있습니다.",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905936087_pmsr_01035484000_KakaoTalk_20251215_081324133_08.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905937805_xlpv_01035484000_KakaoTalk_20251215_081324133_10.jpg",
@@ -384,18 +386,20 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.86740402653949,
-            128.62728059291842
+            35.867467115571,
+            128.627508724401
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 동구 신천동 300-12번지"
         },
         {
           "itemId": "item_1795587502586_et68",
           "postId": "1783901695498",
           "propNo": "987",
           "tradeType": "rent",
-          "title": "대구 수성구 범어동 무권리 달구벌대로 상가 사무실 임대",
-          "address": "대구광역시 수성구 범어동",
+          "title": "범어역 초역세권 아우름타워",
+          "address": "대구광역시 수성구 범어동 189-6번지",
           "currentFloor": "지상 10층",
           "totalFloor": "지하 3층 ~ 지상 11층",
           "floor": "지상 10층 / 총 지하 3층 ~ 지상 11층",
@@ -417,7 +421,7 @@
             "대로변/코너",
             "테라스/베란다"
           ],
-          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩, 분할가능\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능\n• 추천업종 : 병의원, 사무실, 학원 등",
+          "agentComment": "• 범어역 수성구청역 최고위치 신축빌딩 아우름타워\n• 주차 63대, 무료주차 1대, 고객주차 주차권 1시간 500원 구매가능",
           "photos": [
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901662381_95u7_KakaoTalk_20251223_111232737_09.jpg",
             "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783901664301_139w_KakaoTalk_20251223_111232737_13.jpg",
@@ -431,10 +435,12 @@
           ],
           "officialDocs": [],
           "coordinates": [
-            35.858413526048956,
-            128.62960070371628
+            35.858634810829,
+            128.62963571615
           ],
-          "autoSyncPost": false
+          "autoSyncPost": false,
+          "_addressDirty": false,
+          "_lastGeocodedAddr": "대구광역시 수성구 범어동 189-6번지"
         }
       ]
     },
