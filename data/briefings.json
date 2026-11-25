@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795580827093,
+  "updatedAt": 1795587486212,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -79,9 +79,9 @@
       "id": "br_mwstm54c",
       "customerName": "메트라이프",
       "customerPhone": "",
-      "title": "e편한세상 동대구역 센텀스퀘어 3층 전용 약 204.89평",
+      "title": "메트라이프 사무실 매물리스트",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795580825100,
+      "updatedAt": 1795587484781,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
@@ -90,7 +90,7 @@
       "includeMaintVat": false,
       "showYield": false,
       "showMap": true,
-      "generalNote": "동대구역 바로 앞에 위치한 e편한세상 동대구역 센텀스퀘어입니다.",
+      "generalNote": "메트라이프 사무실 매물리스트입니다.",
       "attachedMemoIds": [],
       "customerPicks": [],
       "items": [
@@ -345,6 +345,49 @@
               "uploadedAt": 1795570103644
             }
           ]
+        },
+        {
+          "itemId": "item_1795587484766_qkh1",
+          "postId": "1783905963561",
+          "propNo": "1454",
+          "tradeType": "rent",
+          "title": "대구 동구 신천동 시설완비 무권리 사무실 벤처밸리네거리",
+          "address": "대구광역시 동구 신천동",
+          "currentFloor": "지상4층",
+          "totalFloor": "지하1층~지상8층",
+          "floor": "지상4층 / 총 지하1층~지상8층",
+          "area": "전용 약 204.6평",
+          "deposit": 10230,
+          "rent": 1023,
+          "rentVat": true,
+          "managementFee": 887,
+          "maintVat": true,
+          "premium": 0,
+          "premiumText": "무권리",
+          "salePrice": 0,
+          "badges": [
+            "주차 편함",
+            "외부화장실",
+            "무권리",
+            "인테리어 완비",
+            "즉시입주 가능",
+            "대로변/코너"
+          ],
+          "agentComment": "• 구.MBC네거리 코너 위치 최상, 주차 100대로 매우 편리\n• 인테리어 최상급, 무료주차 8대 제공, 구역을 나누어 주차하여 주차 편의성 좋음\n• 사무실청소, 전기요금 등 모두 공용관리비에 포함됨",
+          "photos": [
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905936087_pmsr_01035484000_KakaoTalk_20251215_081324133_08.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905937805_xlpv_01035484000_KakaoTalk_20251215_081324133_10.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905939672_hdzj_01035484000_KakaoTalk_20251215_081324133_11.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905941341_20ne_01035484000_KakaoTalk_20251215_081324133_12.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905943209_6kq6_01035484000_KakaoTalk_20251215_081324133_15.jpg",
+            "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page@main/images/post_img_1783905945127_o5fm_01035484000_KakaoTalk_20251215_081324133_17.jpg"
+          ],
+          "officialDocs": [],
+          "coordinates": [
+            35.86740402653949,
+            128.62728059291842
+          ],
+          "autoSyncPost": false
         }
       ]
     },
