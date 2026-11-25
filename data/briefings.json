@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1795571413565,
+  "updatedAt": 1795580827093,
   "memos": [
     {
       "id": "memo_doc_rent",
@@ -81,7 +81,7 @@
       "customerPhone": "",
       "title": "e편한세상 동대구역 센텀스퀘어 3층 전용 약 204.89평",
       "createdAt": "2026. 11. 23",
-      "updatedAt": 1795571413926,
+      "updatedAt": 1795580825100,
       "expiresAt": "",
       "blindAddress": false,
       "showComparisonTable": false,
@@ -102,8 +102,8 @@
           "title": "e편한세상 동대구역 센텀스퀘어 3층(319호, 302호, 321호, 322호) 전용 약 204.89평",
           "address": "대구광역시 동구 신천동 1542번지",
           "currentFloor": "지상 3층",
-          "totalFloor": "지하 1층~지상 5층",
-          "floor": "지상 3층 / 총 지하 1층~지상 5층",
+          "totalFloor": "지하 1층~지상 4층",
+          "floor": "지상 3층 / 총 지하 1층~지상 4층",
           "area": "전용 약 204.89평",
           "deposit": 43050,
           "rent": 2870,
