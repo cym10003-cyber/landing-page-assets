@@ -1,6 +1,6 @@
 {
-  "totalPageviews": 10060,
-  "todayPageviews": 17,
+  "totalPageviews": 10061,
+  "todayPageviews": 18,
   "dailyHistory": {
     "2026-10-30": {
       "date": "2026-10-30",
@@ -5692,10 +5692,10 @@
     },
     "2026-11-26": {
       "date": "2026-11-26",
-      "count": 17,
-      "uniqueCount": 13,
+      "count": 18,
+      "uniqueCount": 14,
       "referrers": {
-        "직접 접속 / 카카오톡 링크": 4,
+        "직접 접속 / 카카오톡 링크": 5,
         "네이버 (Naver)": 8,
         "구글 (Google)": 1
       },
@@ -5703,7 +5703,8 @@
         "1788145807226": 1,
         "1791328502980": 1,
         "1794788932095": 1,
-        "1784084835257": 1
+        "1784084835257": 1,
+        "1787099886739": 1
       },
       "likes": {},
       "inflowLandings": {
@@ -9622,5 +9623,5 @@
     }
   },
   "todayDate": "2026-11-26",
-  "todayUniqueVisitors": 13
+  "todayUniqueVisitors": 14
 }
