@@ -4498,7 +4498,7 @@
       128.59899669885635
     ],
     "date": "2026. 07. 15",
-    "isPrivate": false,
+    "isPrivate": true,
     "image": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784074600414_3dct_2cec4b9d5c04f957ec37c599aed9c4c5.JPG",
     "images": [
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784074600414_3dct_2cec4b9d5c04f957ec37c599aed9c4c5.JPG",
@@ -4509,7 +4509,8 @@
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784074608200_z3uc_6719a3bcbb5487a17c950158c41021fd.JPG",
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784074609861_wl3f_c606eda0ea4e2172afcb73fb6b1f5d63.JPG",
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1784074611421_wg4x_e97d9ad572ad6b3117fc7d688305a081.JPG"
-    ]
+    ],
+    "updatedAt": 1795741982735
   },
   {
     "id": "1784074538692",
