@@ -1,6 +1,6 @@
 {
-  "totalPageviews": 10145,
-  "todayPageviews": 2,
+  "totalPageviews": 10146,
+  "todayPageviews": 3,
   "dailyHistory": {
     "2026-10-30": {
       "date": "2026-10-30",
@@ -5598,13 +5598,13 @@
     },
     "2026-11-28": {
       "date": "2026-11-28",
-      "count": 2,
+      "count": 3,
       "uniqueCount": 1,
       "referrers": {
-        "직접 접속 / 카카오톡 링크": 1
+        "직접 접속 / 카카오톡 링크": 2
       },
       "postViews": {
-        "1787615922059": 1,
+        "1787615922059": 2,
         "1783985170239": 1
       },
       "likes": {},
