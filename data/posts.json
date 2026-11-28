@@ -2904,7 +2904,7 @@
       35.85966564913448,
       128.64048779010776
     ],
-    "isPrivate": false,
+    "isPrivate": true,
     "date": "2026. 08. 25",
     "image": "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787615899197_fshi_KakaoTalk_20260824_125228242.jpg",
     "images": [
@@ -2912,7 +2912,8 @@
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787615901159_xhoc_KakaoTalk_20260824_125228242_01.jpg",
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787615903105_8vro_KakaoTalk_20260824_125228242_02.jpg",
       "https://cdn.jsdelivr.net/gh/cym10003-cyber/landing-page-assets@main/images/post_img_1787615904800_wu5o_KakaoTalk_20260824_125228242_03.jpg"
-    ]
+    ],
+    "updatedAt": 1795866973576
   },
   {
     "id": "1787615008706",
